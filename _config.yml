@@ -21,15 +21,15 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yankun Song # the main title
+title: Thinker # the main title
 
-tagline: Yankun's tech blog # it will display as the sub-title
+tagline: Happy wife happy life # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Yankun Song's tech notes and blogs.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://yankun-song.github.io"
+url: "https://thinkerkun.github.io"
 
 github:
   username: yankun-song # change to your github username
@@ -40,15 +40,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yankun Song
-  email: yankun.L.song@gmail.com # change to your email address
+  name: Thinker
+  email: # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/yankun-song # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/username
+    # # The first element serves as the copyright owner's link
+    # - https://twitter.com/username # change to your twitter homepage
+    # - https://github.com/yankun-song # change to your github homepage
+    # # Uncomment below to add more social links
+    # # - https://www.facebook.com/username
+    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
