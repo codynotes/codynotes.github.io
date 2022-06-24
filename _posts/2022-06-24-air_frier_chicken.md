@@ -6,6 +6,12 @@ tags: [鸡肉, 空气炸锅] # TAG names should always be lowercase
 img_path: /assets/posts/
 ---
 
+## 食材
+
+鸡胸肉
+
+## 步骤
+
 1. 鸡胸肉切条（刀与纹路垂直，才不柴）
 
 2. 加蒜末，半勺黑胡椒，一勺料酒，一勺生抽，一勺蚝油，半勺辣椒面，一点盐

@@ -6,6 +6,14 @@ tags: [鱼肉, 清蒸] # TAG names should always be lowercase
 img_path: /assets/posts/
 ---
 
+## 食材
+
+鳕鱼
+
+小米辣
+
+## 步骤
+
 1. 鳕鱼泡葱姜水十分钟
 
 2. 上锅蒸 8 分钟左右，取出倒出汁水
