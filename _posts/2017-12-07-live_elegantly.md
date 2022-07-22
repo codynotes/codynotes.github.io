@@ -1,8 +1,8 @@
 ---
 title: 如何在这美丑并存的世上优雅生活
 date: 2017-12-07 10:08:00 -500
-categories: [文章, 读书]
-tags: [优雅] # TAG names should always be lowercase
+categories: [读书]
+tags: [] # TAG names should always be lowercase
 ---
 
 ## 0
