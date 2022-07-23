@@ -21,18 +21,18 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Thinker # the main title
+title: PandaKissBamboo # the main title
 
-tagline: Happy wife happy life # it will display as the sub-title
+tagline: There are girls like lions. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My notes and blogs.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://thinkerkun.github.io"
+url: "https://nicole0205.github.io"
 
 github:
-  username: yankun-song # change to your github username
+  username: nicole0205 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Thinker
+  name: Panda
   email: # change to your email address
   links:
     # # The first element serves as the copyright owner's link
