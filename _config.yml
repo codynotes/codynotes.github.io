@@ -21,9 +21,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: PandaKissBamboos # the main title
+title: Thinker # the main title
 
-tagline: There are girls like lions. # it will display as the sub-title
+tagline: Cogito, ergo sum # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My notes and blogs.
